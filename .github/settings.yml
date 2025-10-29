@@ -1,6 +1,6 @@
 repository:
-  name: "kf-cdn",
-  description: "Content Delivery Network for Kreftforeningen web",
+  name: "kf-cdn"
+  description: "Content Delivery Network for Kreftforeningen web"
   topics:
     - fonts
     - brand
