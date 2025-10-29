@@ -15,10 +15,19 @@ Assets should be immutable and cached long-term. Adjust cache directives if your
 
 ## Usage
 
+### Added
+
 - utm.kreftforeningen.no
 - aarsrapport.kreftforeningen.no
 - livestream.kreftforeningen.no
 - julekort.kretforeningen.no
+
+### Coming
+
+- kf-tailwind
+- kf-component-library
+- kf-storybook
+- web-sanity
 
 ## Author
 
