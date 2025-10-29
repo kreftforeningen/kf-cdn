@@ -1,5 +1,4 @@
 repository:
-  name: "kf-cdn"
   description: "Content Delivery Network for Kreftforeningen web"
   homepage: "https://cdn.kreftforeningen.no"
   topics:
