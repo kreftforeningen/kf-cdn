@@ -12,3 +12,15 @@ Static headers on Netlify are configured via the `_headers` file to allow cross-
 ## Caching
 
 Assets should be immutable and cached long-term. Adjust cache directives if your update strategy differs.
+
+## Usage
+
+- utm.kreftforeningen.no
+
+## Author
+
+Asbjørn Ness
+
+## License
+
+MIT
