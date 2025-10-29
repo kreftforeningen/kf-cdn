@@ -18,6 +18,7 @@ Assets should be immutable and cached long-term. Adjust cache directives if your
 - utm.kreftforeningen.no
 - aarsrapport.kreftforeningen.no
 - livestream.kreftforeningen.no
+- julekort.kretforeningen.no
 
 ## Author
 
